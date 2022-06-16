@@ -19,6 +19,9 @@
 * Joshua Kehrer: **Projekttitel** 
   *  [google](https://google.com)
 
+* Nina Diem: **Projekttitel** 
+  *  [google](https://google.com)
+
 * Patrick Hoffmann: **Projekttitel** 
   *  [google](https://google.com)
 
