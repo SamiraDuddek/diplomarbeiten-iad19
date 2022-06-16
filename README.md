@@ -10,6 +10,9 @@
 * Dan Büschlen: **Projekttitel** 
   *  [google](https://google.com)
 
+* Desiree Lanz: **Projekttitel** 
+  *  [google](https://google.com)
+
 * Dominique Martin: **Projekttitel** 
   *  [google](https://google.com)
 
