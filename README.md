@@ -1,10 +1,10 @@
 # Diplomarbeiten IAD19
 
 
-* Samira Duddek **bold** _italic_ *italic* 
+* Chantal Hugentobler **Projekttitel**
   *  [google](https://google.com)
 
 
-* Samira Duddek **bold** _italic_ *italic* 
+* Samira Duddek: **ZÜRIBUECH** 
   *  [google](https://google.com)
 
