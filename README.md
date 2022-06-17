@@ -10,8 +10,8 @@
 * Dan Büschlen: **Projekttitel** 
   *  [google](https://google.com)
 
-* Desiree Lanz: **Projekttitel** 
-  *  [google](https://google.com)
+* Desiree Lanz: **Astrolove** 
+  *  [astrolove.ch](https://desilanz.github.io/Diplomarbeit_Desiree-Lanz_Astrolove/)
 
 * Dominique Martin: **Projekttitel** 
   *  [google](https://google.com)
@@ -32,7 +32,7 @@
   *  [google](https://google.com)
 
 * Samira Duddek: **ZÜRIBUECH** 
-  *  [zueribuech.ch](https://www.zueribuech.ch/)
+  *  [zueribuech.ch](https://samiraduddek.github.io/Diplomarbeit-Samira/)
 
 * Selina Strickler: **Projekttitel** 
   *  [google](https://google.com)
