@@ -32,7 +32,7 @@
   *  [google](https://google.com)
 
 * Samira Duddek: **ZÜRIBUECH** 
-  *  [google](https://google.com)
+  *  [zueribuech.ch](https://www.zueribuech.ch/)
 
 * Selina Strickler: **Projekttitel** 
   *  [google](https://google.com)
