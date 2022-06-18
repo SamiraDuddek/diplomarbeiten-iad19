@@ -19,8 +19,8 @@
 * Flavia Tschumi: **Projekttitel** 
   *  [google](https://google.com)
 
-* Joshua Kehrer: **Projekttitel** 
-  *  [google](https://google.com)
+* Joshua Kehrer: **POCKY** 
+  *  [pocky.ch](https://joshuakehrer.github.io/Pocky/)
 
 * Nina Diem: **Projekttitel** 
   *  [google](https://google.com)
