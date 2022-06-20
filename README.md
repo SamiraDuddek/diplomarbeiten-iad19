@@ -1,8 +1,8 @@
 # Diplomarbeiten IAD19
 
 
-* Chantal Hugentobler: **Projekttitel**
-  *  [google](https://google.com)
+* Chantal Hugentobler: **SWEETLESS**
+  *  [sweetless.ch](https://chantalhugi.github.io/sweetless/)
 
 * Cheyenne Wäny: **Projekttitel** 
   *  [google](https://google.com)
@@ -11,19 +11,19 @@
   *  [google](https://google.com)
 
 * Desiree Lanz: **Astrolove** 
-  *  [astrolove.ch](https://desilanz.github.io/Diplomarbeit_Desiree-Lanz_Astrolove/)
+  *  [astrolove.ch](https://desilanz.github.io/Diplomarbeit_Desiree_Lanz_Astrolove/)
 
 * Dominique Martin: **Projekttitel** 
   *  [google](https://google.com)
 
-* Flavia Tschumi: **Projekttitel** 
-  *  [google](https://google.com)
+* Flavia Tschumi: **WeeDoo** 
+  *  [weedoo.ch](https://flaviatschumi.github.io/WeeDoo/)
 
 * Joshua Kehrer: **POCKY** 
   *  [pocky.ch](https://joshuakehrer.github.io/Pocky/)
 
-* Nina Diem: **Projekttitel** 
-  *  [google](https://google.com)
+* Nina Diem: **Tavolata** 
+  *  [tavolata.ch](https://ninadiem.github.io/tavolata/)
 
 * Patrick Hoffmann: **Projekttitel** 
   *  [google](https://google.com)
@@ -34,9 +34,9 @@
 * Samira Duddek: **ZÜRIBUECH** 
   *  [zueribuech.ch](https://samiraduddek.github.io/Diplomarbeit-Samira/)
 
-* Selina Strickler: **Projekttitel** 
-  *  [google](https://google.com)
+* Selina Strickler: **learn to invest** 
+  *  [learntoinvest.ch](https://seelinya.github.io/learntoinvest/)
   
-* Stefanos Gjotas: **Projekttitel** 
-  *  [google](https://google.com)
+* Stefanos Gjotas: **SONDAR** 
+  *  [sondar.ch](https://stefanosgjotas.github.io/Diplomarbeit-Sondar/)
 
