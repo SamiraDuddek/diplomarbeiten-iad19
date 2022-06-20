@@ -7,8 +7,8 @@
 * Cheyenne Wäny: **Projekttitel** 
   *  [google](https://google.com)
 
-* Dan Büschlen: **Projekttitel** 
-  *  [google](https://google.com)
+* Dan Büschlen: **TRIEBHUUS** 
+  *  [triebhuus.ch](https://iad2019-diploma.danbueschlen.ch/)
 
 * Desiree Lanz: **Astrolove** 
   *  [astrolove.ch](https://desilanz.github.io/Diplomarbeit_Desiree_Lanz_Astrolove/)
