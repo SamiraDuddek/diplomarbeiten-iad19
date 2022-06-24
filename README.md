@@ -4,8 +4,8 @@
 * Chantal Hugentobler: **SWEETLESS**
   *  [sweetless.ch](https://chantalhugi.github.io/sweetless/)
 
-* Cheyenne Wäny: **Projekttitel** 
-  *  [google](https://google.com)
+* Cheyenne Wäny: **vyna** 
+  *  [vyna.ch](https://cwaeny.github.io/diplomarbeit-vyna/)
 
 * Dan Büschlen: **TRIEBHUUS** 
   *  [triebhuus.ch](https://iad2019-diploma.danbueschlen.ch/)
