@@ -13,8 +13,8 @@
 * Desiree Lanz: **Astrolove** 
   *  [astrolove.ch](https://desilanz.github.io/Diplomarbeit_Desiree_Lanz_Astrolove/)
 
-* Dominique Martin: **Projekttitel** 
-  *  [google](https://google.com)
+* Dominique Martin: **moov** 
+  *  [moov.ch](https://domiwilli.github.io/moov/)
 
 * Flavia Tschumi: **WeeDoo** 
   *  [weedoo.ch](https://flaviatschumi.github.io/WeeDoo/)
@@ -25,11 +25,11 @@
 * Nina Diem: **Tavolata** 
   *  [tavolata.ch](https://ninadiem.github.io/tavolata/)
 
-* Patrick Hoffmann: **Projekttitel** 
-  *  [google](https://google.com)
+* Patrick Hoffmann: **Hallo Nachbar** 
+  *  [hallonachbar.ch](https://iad.hoffmann-kann.ch/)
 
-* Sam Diener: **Projekttitel** 
-  *  [google](https://google.com)
+* Sam Diener: **SC-YN** 
+  *  [sc-yn.ch](https://samdiener.github.io/sc-yn/)
 
 * Samira Duddek: **ZÜRIBUECH** 
   *  [zueribuech.ch](https://samiraduddek.github.io/Diplomarbeit-Samira/)
